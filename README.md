@@ -12,6 +12,21 @@
 ```ruby
 here is some code
 ```
+*italic text*
+_italic text_
+
+**bold text**
+__bold text__
+
+* Bullet list
+* list
+  * list
+  * list
+
+1. Numbered list
+2. List
+    1. list
+    2. list
 
 ![Image](https://lucid.app/publicSegments/view/549dcc6d-b3a7-4b9a-bf49-e0d2cf0aac6c/image.png)
 
